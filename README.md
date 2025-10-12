@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  [![Watilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=watilla-dev)](https://github.com/watilla-dev/github-readme-stats)
+</div>

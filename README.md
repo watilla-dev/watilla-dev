@@ -43,7 +43,7 @@
 -->
 ### ⚡ Um pouco mais sobre mim
 - 💻 Estudante em constante evolução no universo da tecnologia.  
-- ⚙️ Explorando integração entre **hardware e software** (IoT e automação).  
+- ⚙️ Explorando integração entre **hardware e software** (IoT).  
 - 📚 Sempre aprendendo e compartilhando conhecimento.
 
 ---
